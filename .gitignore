@@ -7,6 +7,8 @@ Untitled.ipynb
 .ipynb_checkpoints
 *.komodoproject
 venv/
+.venv/
 .cache/
 .mypy_cache/
 .vscode/
+.idea/
